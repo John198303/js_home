@@ -15,3 +15,4 @@ do {
     console.log(number, word);
     number++;
 } while (number <= 10);
+
